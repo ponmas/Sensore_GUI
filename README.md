@@ -1,2 +1,10 @@
 # Sensore_GUI
 センサデータのリアルタイム表示と保存
+
+
+SensoreUIフォルダ
+processing用のプログラムファイル
+GUIの描画とArduinoのanalogreadで得た入力を時系列順に保存する。
+
+StandardFirmataフォルダ
+Arduinoをprocessingのプログラムで動かすためにArduinoに書き込む
